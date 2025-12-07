@@ -2,4 +2,4 @@
 
 ditto
 
-see the write-up
+see the pdf write-up
